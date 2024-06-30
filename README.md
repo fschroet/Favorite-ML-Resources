@@ -5,7 +5,7 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
 
 *Articles*: 
 - **The illustrated Transformer** \
-  http://jalammar.github.io/illustrated-transformer/ \
+  http://jalammar.github.io/illustrated-transformer/ 
 
 *Books*:
 - **ProbML 1**\
