@@ -18,9 +18,9 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
   https://probml.github.io/pml-book/book2.html
 - **Deep Learning Concepts & Foundations** (Bishop)\
   https://www.bishopbook.com
-- **Pattern Recognition and Machine Learning** (A classic from Bishop)
+- **Pattern Recognition and Machine Learning** (A classic from Bishop) \
   https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
-- **Machine Learning** (old but a classic and easy to consume)
+- **Machine Learning** (old but a classic and easy to consume) \
   https://www.cs.cmu.edu/~tom/mlbook.html
 
 *Videos*: \
