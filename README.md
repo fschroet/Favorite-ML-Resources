@@ -29,8 +29,12 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
 - **Machine Learning** (old but a classic and easy to consume) \
   https://www.cs.cmu.edu/~tom/mlbook.html
 
-*Videos*: \
-\-\-
+*Videos*: 
+- 3Blue1Brown
+  - Essence of linear algebra Series: \
+    https://youtu.be/fNk_zzaMoSs?feature=shared
+  - Central Limit Theorem Series: \
+    https://youtu.be/zeJD6dqJ5lo?feature=shared
 
 *Resources especially useful for maths:* 
 - **Mathematics for Machine Learning** \
