@@ -10,6 +10,8 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
   https://distill.pub/2019/visual-exploration-gaussian-processes/
 - **Prompt Engineering** (Great blog in general) \
   https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+- **An interactive introduction to fourier transforms** \
+  https://www.jezzamon.com/fourier/
 
 *Books*:
 - **ProbML 1**\
@@ -18,6 +20,10 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
   https://probml.github.io/pml-book/book2.html
 - **Deep Learning Concepts & Foundations** (Bishop)\
   https://www.bishopbook.com
+- **Deep Learning** (Goodfellow) \
+  https://www.deeplearningbook.org/
+- **An introduction statistical learning** \
+  https://www.statlearning.com/
 - **Pattern Recognition and Machine Learning** (A classic from Bishop) \
   https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 - **Machine Learning** (old but a classic and easy to consume) \
