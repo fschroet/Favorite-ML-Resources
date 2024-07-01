@@ -8,7 +8,7 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
   http://jalammar.github.io/illustrated-transformer/
 - **Visual exploration gaussian processes** \
   https://distill.pub/2019/visual-exploration-gaussian-processes/
-- **Prompt Engineering** (Great blog in general)
+- **Prompt Engineering** (Great blog in general) \
   https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
 
 *Books*:
