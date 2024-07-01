@@ -22,8 +22,6 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
   https://www.bishopbook.com
 - **Deep Learning** (Goodfellow) \
   https://www.deeplearningbook.org/
-- **An introduction to statistical learning** \
-  https://www.statlearning.com/
 - **Pattern Recognition and Machine Learning** (A classic from Bishop) \
   https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 - **Machine Learning** (old but a classic and easy to consume) \
@@ -40,3 +38,5 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
 - **Mathematics for Machine Learning** \
   I loved reading this book. It was relatively easy to consume while still providing very useful intuitions and perspectives. \
   https://mml-book.github.io/
+- **An introduction to statistical learning** \
+  https://www.statlearning.com/  
