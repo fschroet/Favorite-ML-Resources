@@ -1,6 +1,6 @@
 # Favorite-ML-Resources
 
-In this file i want to maintain a small list of my favorite resources (Papers, Blogs, Videos...) i found while trying to understand machine learning concepts. My favorite way of studying is gaining not only a theoretical understanding but also a strong intuition of the topics. For me especially the intutive part promotes fun and motivates me to dive deeper into certain topics.
+In this file i want to maintain a small list of my favorite resources (Papers, Blogs, Videos...) i found while trying to understand machine learning concepts. My favorite way of studying is gaining not only a theoretical understanding but also a strong intuition of the topics. For me especially the intuitive part promotes fun and motivates me to dive deeper into certain topics.
 
 
 *Articles*: 
