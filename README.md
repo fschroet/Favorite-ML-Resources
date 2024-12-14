@@ -43,8 +43,6 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
 
 *Videos*: 
 - 3Blue1Brown
-  - Essence of linear algebra Series: \
-    https://youtu.be/fNk_zzaMoSs?feature=shared
   - Central Limit Theorem Series: \
     https://youtu.be/zeJD6dqJ5lo?feature=shared
 
