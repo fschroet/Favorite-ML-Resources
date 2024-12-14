@@ -26,12 +26,12 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
   https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 - **Machine Learning** (old but a classic and easy to consume) \
   https://www.cs.cmu.edu/~tom/mlbook.html
-- **Information Theory for Machine Learning,
-Massimiliano Tomassoli \
+- **Information Theory for Machine Learning** \
+  Massimiliano Tomassoli 
   https://github.com/mtomassoli/information-theory-tutorial
 - **An introduction to statistical learning** \
   https://www.statlearning.com/  
-- 
+
 
 *Mathy books:* 
 - **Mathematics for Machine Learning** \
