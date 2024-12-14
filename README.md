@@ -38,8 +38,10 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
   I loved reading this book. It was relatively easy to consume while still providing very useful intuitions and perspectives. \
   https://mml-book.github.io/
 - **Mathmatical Statistics with Applications, Wackerly** \
-- **Linear Algebra done right, Axler**
-- **Analysis I&II, Terence Tao**
+- **Linear Algebra done right**\
+  Sheldon Axler
+- **Analysis I&II**\
+  Terence Tao
 
 *Videos*: 
 - 3Blue1Brown
