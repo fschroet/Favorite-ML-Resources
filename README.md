@@ -13,7 +13,7 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
 - **An interactive introduction to fourier transforms** \
   https://www.jezzamon.com/fourier/
 
-*Books*:
+*Books/short courses*:
 - **ProbML 1**\
   https://probml.github.io/pml-book/book1.html
 - **ProbML 2**\
@@ -26,6 +26,20 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
   https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 - **Machine Learning** (old but a classic and easy to consume) \
   https://www.cs.cmu.edu/~tom/mlbook.html
+- **Information Theory for Machine Learning,
+Massimiliano Tomassoli \
+  https://github.com/mtomassoli/information-theory-tutorial
+- **An introduction to statistical learning** \
+  https://www.statlearning.com/  
+- 
+
+*Mathy books:* 
+- **Mathematics for Machine Learning** \
+  I loved reading this book. It was relatively easy to consume while still providing very useful intuitions and perspectives. \
+  https://mml-book.github.io/
+- **Mathmatical Statistics with Applications, Wackerly** \
+- **Linear Algebra done right, Axler**
+- **Analysis I&II, Terence Tao**
 
 *Videos*: 
 - 3Blue1Brown
@@ -34,9 +48,4 @@ In this file i want to maintain a small list of my favorite resources (Papers, B
   - Central Limit Theorem Series: \
     https://youtu.be/zeJD6dqJ5lo?feature=shared
 
-*Resources especially useful for maths:* 
-- **Mathematics for Machine Learning** \
-  I loved reading this book. It was relatively easy to consume while still providing very useful intuitions and perspectives. \
-  https://mml-book.github.io/
-- **An introduction to statistical learning** \
-  https://www.statlearning.com/  
+  
